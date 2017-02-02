@@ -1,0 +1,4 @@
+env: development
+nodejs:
+  user: vagrant
+  version: stable
